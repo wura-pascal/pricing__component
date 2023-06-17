@@ -1,0 +1,46 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+main {
+  padding: 3rem 0rem;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+}
+main .sec_1 {
+  background-color: white;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  padding: 3rem 5rem;
+  border-radius: 10px;
+}
+main .sec_2 {
+  border-radius: 10px;
+  background-color: hsl(228deg, 45%, 44%);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  padding: 4rem 5rem;
+}
+main .sec_3 {
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  padding: 3rem 5rem;
+}
+main .divv {
+  border: hsl(234deg, 14%, 74%) solid 1px;
+  width: 50px;
+}
+main .divs {
+  padding: 1rem 0rem;
+}
+main button {
+  background-color: hsl(228deg, 45%, 44%);
+  padding: 10px 3rem;
+  display: flex;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */

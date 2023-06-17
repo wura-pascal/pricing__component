@@ -1,0 +1,131 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+header .sec1 {
+  display: flex;
+  color: hsl(228deg, 45%, 44%);
+  justify-content: center;
+  align-items: center;
+}
+header .sec2 {
+  display: flex;
+  color: hsl(233deg, 13%, 49%);
+  justify-content: center;
+  align-items: center;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228deg, 45%, 44%);
+}
+
+main {
+  padding: 3rem 0rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+main .sec_1 {
+  color: hsl(228deg, 45%, 44%);
+  background-color: white;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  padding: 3rem 1rem;
+  border-radius: 7px;
+  text-align: center;
+}
+main .sec_1 h3 {
+  font-size: 1.5rem;
+}
+main .sec_1 .divs {
+  padding: 1rem 0rem;
+  border-bottom: 1px solid hsl(234deg, 14%, 74%);
+  width: 100%;
+}
+main .sec_2 {
+  color: #fff;
+  border-radius: 7px;
+  background-color: hsl(228deg, 45%, 44%);
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  padding: 4rem 1rem;
+  text-align: center;
+}
+main .sec_2 .divs {
+  padding: 1rem 0rem;
+  border-bottom: 1px solid hsl(234deg, 14%, 74%);
+  width: 100%;
+}
+main .sec_2 h3 {
+  font-size: 1.5rem;
+}
+main .sec_3 {
+  color: hsl(228deg, 45%, 44%);
+  border-radius: 7px;
+  background-color: #fff;
+  box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+  padding: 3rem 1rem;
+  text-align: center;
+}
+main .sec_3 .divs {
+  padding: 1rem 0rem;
+  border-bottom: 1px solid hsl(234deg, 14%, 74%);
+  width: 100%;
+}
+main .sec_3 h3 {
+  font-size: 1.5rem;
+}
+main .divss {
+  padding: 0rem 2.5rem;
+}
+main .btn {
+  background-color: #fff;
+  color: hsl(228deg, 45%, 44%);
+}
+main button {
+  color: #fff;
+  border-radius: 7px;
+  border: none;
+  background-color: hsl(228deg, 45%, 44%);
+  padding: 7px 4.5rem;
+  display: flex;
+  align-items: center;
+}
+main .divsb {
+  padding: 1rem 0rem;
+}
+
+body {
+  background: #f6f6fe url(/images/bg-bottom.svg) no-repeat;
+  background-position: bottom left;
+}
+
+.container {
+  min-height: 100vh;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  color: hsl(228deg, 45%, 44%);
+}/*# sourceMappingURL=style.css.map */

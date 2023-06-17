@@ -1,0 +1,18 @@
+// @import url("./_var.sass");
+// @forward '';
+@import "./var";
+
+header {
+  .sec1 {
+    display: flex;
+    color: hsl(228, 45%, 44%);
+    justify-content: center;
+    align-items: center;
+  }
+  .sec2 {
+    display: flex;
+    color: hsl(233, 13%, 49%);
+    justify-content: center;
+    align-items: center;
+  }
+}

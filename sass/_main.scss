@@ -1,0 +1,85 @@
+@import "./var";
+main {
+  padding: 3rem 0rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .btnt {
+    margin: 5px;
+    background-color: hsl(228, 45%, 44%);
+    padding: 2rem 2rem;
+  }
+  .sec_1 {
+    color: hsl(228, 45%, 44%);
+    background-color: white;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+    padding: 3rem 1rem;
+    border-radius: 7px;
+    text-align: center;
+    h3 {
+      font-size: 1.5rem;
+    }
+    .divs {
+      padding: 1rem 0rem;
+      border-bottom: 1px solid hsl(234, 14%, 74%);
+      width: 100%;
+    }
+  }
+
+  .sec_2 {
+    color: #fff;
+    border-radius: 7px;
+    background-color: hsl(228, 45%, 44%);
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+    padding: 4rem 1rem;
+    text-align: center;
+    .divs {
+      padding: 1rem 0rem;
+      border-bottom: 1px solid hsl(234, 14%, 74%);
+      width: 100%;
+    }
+    h3 {
+      font-size: 1.5rem;
+    }
+  }
+  .sec_3 {
+    color: hsl(228, 45%, 44%);
+    border-radius: 7px;
+    background-color: #fff;
+    box-shadow: 6px 6px 6px rgba(0, 0, 0, 0.2);
+    padding: 3rem 1rem;
+    text-align: center;
+    .divs {
+      padding: 1rem 0rem;
+      border-bottom: 1px solid hsl(234, 14%, 74%);
+      width: 100%;
+    }
+    h3 {
+      font-size: 1.5rem;
+    }
+  }
+  .divss {
+    padding: 0rem 2.5rem;
+  }
+  // .divv {
+  //    border: hsl(234, 14%, 74%) solid 1px;
+  //   padding: 1rem 2rem;
+  // }
+
+  .btn {
+    background-color: #fff;
+    color: hsl(228, 45%, 44%);
+  }
+  button {
+    color: #fff;
+    border-radius: 7px;
+    border: none;
+    background-color: hsl(228, 45%, 44%);
+    padding: 7px 4.5rem;
+    display: flex;
+    align-items: center;
+  }
+  .divsb {
+    padding: 1rem 0rem;
+  }
+}

@@ -1,0 +1,25 @@
+@import "./header";
+@import "./var";
+@import "./main";
+body {
+  // background-image: url(../images/bg-top.svg) no-repeat cover;
+  // background-position: top right;
+  // background-color: hsl(233, 13%, 49%);
+  // background-color: #6d708d;
+  // $VeryLightGrayishBlue: #f6f6fe;
+  // background-position: top right;
+  background: #f6f6fe url(/images/bg-bottom.svg) no-repeat;
+  background-position: bottom left;
+}
+
+.container {
+  min-height: 100vh;
+  max-width: 1000px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  color: hsl(228, 45%, 44%);
+}
